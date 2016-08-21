@@ -1,0 +1,35 @@
+(.../EAGLE-7.5.0/ulp/pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../eagle/New_Project/espdh11new.brd)
+(Current profile is .../EAGLE-7.5.0/ulp/profiles/generic.pp  )
+(This file generated 18-Aug-16 4:47 PM)
+(Settings from pcb-machine.h)
+(  Tool Size)
+(0.2540 )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(20.0000 	10.0000 	-0.1700 	-1.0000 )
+(spindle on time = 10.0000)
+(milling depth = -0.2540)
+(text depth = -0.1270)
+(tool change at 12.7000 15.2400 25.4000 )
+(feed rate xy = F300.00 )
+(feed rate z  = F300.00 )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0254)
+(isolate max = 0.0300)
+(isolate step = 0.1000)
+(Generated top outlines, top drill, )
+(Unit of measure: mm)
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+G00 X0.0000 Y0.0000 
+M03
+G04 P10.000000
+G00 Z20.0000 
+M05
+M02
